@@ -25,7 +25,7 @@ Clone the repository and open `index.html`.
 
 ## Development
 
-<img src="website/img/website.png" width="700px" height="350px" />
+<img src="image/capture.png" width="700px" height="350px" />
 
 ### Part 1: Frontend 
 
