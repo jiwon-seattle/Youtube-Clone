@@ -60,6 +60,6 @@ Clone the repository and open `index.html`.
 
 ## License
 
-`YoutubeClone` is open source software [licensed as MIT][license].
+`YoutubeClone` is open source software.
 
 (c) 2020 **_Jiwon Han_**
