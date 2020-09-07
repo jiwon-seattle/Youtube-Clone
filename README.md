@@ -19,7 +19,7 @@ A mock youtube web page. I focused on mimicking the Youtube using HTML and CSS.
 
 Currently, the app is deployed via Heroku. Visit https://my-daily-journal-jw.herokuapp.com/. -->
 
-### To run dev mode locally:
+### To see the web page locally:
 
 Clone the repository and open `index.html`.
 
